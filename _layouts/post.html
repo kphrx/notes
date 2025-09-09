@@ -18,9 +18,6 @@ layout: default
         </li>
         {%- endfor %}
       </ul>
-      <p class="edit-history"><a href="{{ page.path | prepend: '/commits/master/' | prepend: site.github.repository_url }}" target="_blank" rel="noopener noreferrer">
-        {% octicon history height:16 fill:currentColor %} History
-      </a></p>
     </div>
     <h1>{{ page.title }}</h1>
     {%- if page.eye_catch %}
