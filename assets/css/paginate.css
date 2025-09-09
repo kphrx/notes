@@ -58,14 +58,20 @@ body .post {
     > h1 {
       margin-bottom: 0;
       border: none;
-      max-width: calc(100% - 320px);
+
+      &:has(~ figure.eye-catch) {
+        max-width: calc(100% - 320px);
+      }
     }
 
     > figure.eye-catch {
       position: absolute;
+      top: 0;
       right: 0;
       width: fit-content;
       max-width: 320px;
+      max-height: 100%;
+      overflow: hidden;
 
       > img {
         object-fit: cover;
@@ -76,7 +82,9 @@ body .post {
     }
 
     > .metadata {
-      max-width: calc(100% - 320px);
+      &:has(~ figure.eye-catch) {
+        max-width: calc(100% - 320px);
+      }
 
       > ul.tags {
         justify-content: flex-start;
