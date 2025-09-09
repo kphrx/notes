@@ -50,31 +50,40 @@ ul.posts {
 
 body .post {
   > header {
+    display: flex;
+    flex-direction: column-reverse;
+
+    position: relative;
+
     > h1 {
       margin-bottom: 0;
       border: none;
+      max-width: calc(100% - 320px);
     }
 
     > figure.eye-catch {
-      float: right;
-      padding-left: 1em;
+      position: absolute;
+      right: 0;
       width: fit-content;
       max-width: 320px;
 
       > img {
         object-fit: cover;
-        float: right;
         height: 96px;
         max-height: 96px;
         width: fit-content;
       }
     }
 
-    > .metadata > ul.tags {
-      justify-content: flex-start;
+    > .metadata {
+      max-width: calc(100% - 320px);
 
-      > li {
-        background-color: transparent;
+      > ul.tags {
+        justify-content: flex-start;
+
+        > li {
+          background-color: transparent;
+        }
       }
     }
   }

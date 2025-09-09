@@ -8,9 +8,9 @@ isPagenate: true
     {{ content }}
 
     {% if paginator.total_pages > 1 -%}
-    <section class="position">
+    <div class="position">
       Page: {{ paginator.page }} of {{ paginator.total_pages }}
-    </section>
+    </div>
 
     {% include pagination.html %}
     {%- endif %}
@@ -22,11 +22,7 @@ isPagenate: true
     <li><a href="{{ post.url | relative_url }}" title="{{ post.title }}">
       <article class="post">
         <header>
-          {%- if post.eye_catch %}
-          <figure class="eye-catch">
-            <img alt="eye catch" src="{{ post.eye_catch | relative_url }}">
-          </figure>
-          {%- endif %}
+          <h1>{{ post.title }}</h1>
           <div class="metadata">
             <p class="published-at">{% octicon pencil height:16 fill:currentColor aria-label:"published at" %} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d %H:%M:%S %Z" }}</time></p>
             <ul class="tags">
@@ -38,7 +34,11 @@ isPagenate: true
               {%- endfor %}
             </ul>
           </div>
-          <h1>{{ post.title }}</h1>
+          {%- if post.eye_catch %}
+          <figure class="eye-catch">
+            <img alt="eye catch" src="{{ post.eye_catch | relative_url }}">
+          </figure>
+          {%- endif %}
         </header>
         {{ post.excerpt }}
       </article>

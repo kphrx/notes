@@ -2,6 +2,6 @@
 layout: paginate
 ---
 
-<section class="notes">
-  {{ content | markdownify }}
-</section>
+{%- if content %}
+<p class="site-description">{{ content | markdownify }}</p>
+{%- endif %}
