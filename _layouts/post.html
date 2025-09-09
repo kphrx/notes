@@ -22,7 +22,7 @@ layout: default
     <h1>{{ page.title }}</h1>
     {%- if page.eye_catch %}
     <figure class="eye-catch">
-      <img alt="eye catch" src="{{ page.eye_catch }}">
+      <img alt="eye catch" src="{{ page.eye_catch | relative_url }}">
     </figure>
     {%- endif %}
   </header>
