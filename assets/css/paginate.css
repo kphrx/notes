@@ -4,7 +4,7 @@ nav.pagination {
   gap: 1ex;
   justify-content: space-between;
 
-  h1 {
+  h2 {
     position: absolute;
     clip: rect(1px, 1px, 1px, 1px);
     overflow: hidden;
@@ -28,7 +28,7 @@ nav.pagination {
   }
 }
 
-.page > header h1 {
+header h1 {
   > svg {
     vertical-align: middle;
     width: 1em;
@@ -65,8 +65,8 @@ body .post {
 
     position: relative;
 
-    > h1 {
-      margin-bottom: 0;
+    > h2 {
+      margin: 0;
       border: none;
 
       &:has(~ figure.eye-catch) {
