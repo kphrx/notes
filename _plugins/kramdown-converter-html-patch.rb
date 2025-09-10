@@ -1,3 +1,24 @@
+module RemoveTrailingSlash
+  def convert_standalone_image(el, indent)
+    super(el, indent).gsub(/ \/>/, '>')
+  end
+
+  def convert_hr(el, indent)
+    "#{' ' * indent}<hr#{html_attributes(el.attr)}>\n"
+  end
+
+  def convert_html_element(el, indent)
+    super(el, indent).gsub(/ \/>/, '>')
+  end
+
+  def convert_br(_el, _indent)
+    "<br>"
+  end
+
+  def convert_img(el, _indent)
+    "<img#{html_attributes(el.attr)}>"
+  end
+end
 
 module AddDataAttributesToHighlighter
   def convert_codeblock(el, indent)
@@ -35,4 +56,5 @@ module AddDataAttributesToHighlighter
   end
 end
 
+Kramdown::Converter::Html.prepend(RemoveTrailingSlash)
 Kramdown::Converter::Html.prepend(AddDataAttributesToHighlighter)

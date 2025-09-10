@@ -1,9 +1,11 @@
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {%- if page.hidden %}
 <meta name="robots" content="noindex, nofollow">
 {%- elsif page.robots %}
 <meta name="robots" content="{{ page.robots }}">
 {%- endif %}
+{%- capture meta_tag_output %}
 {% feed_meta %}
-{% seo title=false -%}
+{% seo title=false %}
+{%- endcapture %}
+{{ meta_tag_output | replace: " />", ">" | replace: "/>", ">" }}

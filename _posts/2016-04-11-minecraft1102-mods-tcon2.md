@@ -79,22 +79,22 @@ TConの素材のそれぞれの数値になります
 
 | 素材 | 耐久値 | 採掘レベル | 採掘速度 | 攻撃力 | 特性 |
 | :--: | -----: | :--------: | -------: | -----: | :--: |
-|Wood<br/>木材|35|0(石)|2|2|Ecological|
-|Stone<br/>丸石|120|1(鉄)|4|2.9|Cheapskate|
-|Flint<br/>火打石|150|1(鉄)|5|2.8|Crude Ⅱ|
-|Cactus<br/>サボテン|210|1(鉄)|4|3.4|Prickly|
-|Bone<br/>骨|200|1(鉄)|5.09|2.5|Splintering|
-|*Obsidian<br/>黒曜石|139|4(コ)|7.07|4.2|Duritae|
-|Prismarine<br/>プリズマリン|430|1(鉄)|5.5|6|Jagged|
-|End<br/>エンドストーン|420|3(黒)|3.23|3.23|Alien|
-|Paper<br/>紙|12|0(石)|0.51|0.05|Writable Ⅱ|
-|Sponge<br/>スポンジ|550|0(石)|3.02|0|Squeaky|
-|Firewood<br/>ファイヤーウッド|550|0(石)|6|5.5|Autosmelt|
-|*Knightslime<br/>ナイトスライム インゴット|850|3(黒)|5.8|5.1|Crumbling|
-|Slime<br/>緑スライムクリスタル|1000|0(石)|4.24|1.8|Slimey|
-|Blue Slime<br/>青スライムクリスタル|780|0(石)|4.03|1.8|Slimey|
-|Magma Slime<br/>マグマスライムクリスタル|300|0(石)|2.1|7|Superheat|
-|Netherrack<br/>ネザーラック|270|1(鉄)|4.5|3|Ardiculous|
+|Wood<br>木材|35|0(石)|2|2|Ecological|
+|Stone<br>丸石|120|1(鉄)|4|2.9|Cheapskate|
+|Flint<br>火打石|150|1(鉄)|5|2.8|Crude Ⅱ|
+|Cactus<br>サボテン|210|1(鉄)|4|3.4|Prickly|
+|Bone<br>骨|200|1(鉄)|5.09|2.5|Splintering|
+|*Obsidian<br>黒曜石|139|4(コ)|7.07|4.2|Duritae|
+|Prismarine<br>プリズマリン|430|1(鉄)|5.5|6|Jagged|
+|End<br>エンドストーン|420|3(黒)|3.23|3.23|Alien|
+|Paper<br>紙|12|0(石)|0.51|0.05|Writable Ⅱ|
+|Sponge<br>スポンジ|550|0(石)|3.02|0|Squeaky|
+|Firewood<br>ファイヤーウッド|550|0(石)|6|5.5|Autosmelt|
+|*Knightslime<br>ナイトスライム インゴット|850|3(黒)|5.8|5.1|Crumbling|
+|Slime<br>緑スライムクリスタル|1000|0(石)|4.24|1.8|Slimey|
+|Blue Slime<br>青スライムクリスタル|780|0(石)|4.03|1.8|Slimey|
+|Magma Slime<br>マグマスライムクリスタル|300|0(石)|2.1|7|Superheat|
+|Netherrack<br>ネザーラック|270|1(鉄)|4.5|3|Ardiculous|
 
 </details>
 
@@ -103,22 +103,22 @@ TConの素材のそれぞれの数値になります
 
 | 素材 | 耐久値 | 補正値 | 特性 |
 | :--: | -----: | -----: | :--: |
-|Wood<br/>木材|25|1|Splinters<br/>Ecological|
-|Stone<br/>丸石|-50|0.5|Cheap|
-|Flint<br/>火打石|-60|0.6|Crude|
-|Cactus<br/>サボテン|20|0.85|Spiky|
-|Bone<br/>骨|50|1.1|Fractured|
-|*Obsidian<br/>黒曜石|-100|0.9|Duritae|
-|Prismarine<br/>プリズマリン|-150|0.6|Aquadynamic|
-|End<br/>エンドストーン|0|0.85|Enderference|
-|Paper<br/>紙|5|0.1|Writable|
-|Sponge<br/>スポンジ|250|1.2|Squeaky|
-|Firewood<br/>ファイヤーウッド|-200|1|Autosmelt|
-|*Knightslime<br/>ナイトスライム インゴット|500|0.5|Unnatural|
-|Slime<br/>緑スライムクリスタル|-100|0.7|Slimey|
-|Blue Slime<br/>青スライムクリスタル|-100|1.3|Slimey|
-|Magma Slime<br/>マグマスライムクリスタル|-200|0.85|Flammable|
-|Netherrack<br/>ネザーラック|-150|0.85|Hellish|
+|Wood<br>木材|25|1|Splinters<br>Ecological|
+|Stone<br>丸石|-50|0.5|Cheap|
+|Flint<br>火打石|-60|0.6|Crude|
+|Cactus<br>サボテン|20|0.85|Spiky|
+|Bone<br>骨|50|1.1|Fractured|
+|*Obsidian<br>黒曜石|-100|0.9|Duritae|
+|Prismarine<br>プリズマリン|-150|0.6|Aquadynamic|
+|End<br>エンドストーン|0|0.85|Enderference|
+|Paper<br>紙|5|0.1|Writable|
+|Sponge<br>スポンジ|250|1.2|Squeaky|
+|Firewood<br>ファイヤーウッド|-200|1|Autosmelt|
+|*Knightslime<br>ナイトスライム インゴット|500|0.5|Unnatural|
+|Slime<br>緑スライムクリスタル|-100|0.7|Slimey|
+|Blue Slime<br>青スライムクリスタル|-100|1.3|Slimey|
+|Magma Slime<br>マグマスライムクリスタル|-200|0.85|Flammable|
+|Netherrack<br>ネザーラック|-150|0.85|Hellish|
 
 </details>
 
@@ -127,22 +127,22 @@ TConの素材のそれぞれの数値になります
 
 | 素材 | 耐久値 | 特性 |
 | :--: | -----: | :--: |
-|Wood<br/>木材|15|Splinters<br/>Ecological|
-|Stone<br/>丸石|20|Cheap|
-|Flint<br/>火打石|40|Crude|
-|Cactus<br/>サボテン|50|Spiky|
-|Bone<br/>骨|65|Fractured|
-|*Obsidian<br/>黒曜石|90|Duritae|
-|Prismarine<br/>プリズマリン|100|Aquadynamic|
-|End<br/>エンドストーン|42|Enderference|
-|Paper<br/>紙|15|Writable|
-|Sponge<br/>スポンジ|250|Squeaky|
-|Firewood<br/>ファイヤーウッド|150|Autosmelt|
-|*Knightslime<br/>ナイトスライム インゴット|125|Unnatural|
-|Slime<br/>緑スライムクリスタル|350|Slimey|
-|Blue Slime<br/>青スライムクリスタル|200|Slimey|
-|Magma Slime<br/>マグマスライムクリスタル|150|Flammable|
-|Netherrack<br/>ネザーラック|75|Hellish|
+|Wood<br>木材|15|Splinters<br>Ecological|
+|Stone<br>丸石|20|Cheap|
+|Flint<br>火打石|40|Crude|
+|Cactus<br>サボテン|50|Spiky|
+|Bone<br>骨|65|Fractured|
+|*Obsidian<br>黒曜石|90|Duritae|
+|Prismarine<br>プリズマリン|100|Aquadynamic|
+|End<br>エンドストーン|42|Enderference|
+|Paper<br>紙|15|Writable|
+|Sponge<br>スポンジ|250|Squeaky|
+|Firewood<br>ファイヤーウッド|150|Autosmelt|
+|*Knightslime<br>ナイトスライム インゴット|125|Unnatural|
+|Slime<br>緑スライムクリスタル|350|Slimey|
+|Blue Slime<br>青スライムクリスタル|200|Slimey|
+|Magma Slime<br>マグマスライムクリスタル|150|Flammable|
+|Netherrack<br>ネザーラック|75|Hellish|
 
 </details>
 
@@ -152,11 +152,11 @@ TConの素材のそれぞれの数値になります
 
 | 素材 | 耐久値 | 採掘レベル | 採掘速度 | 攻撃力 | 特性 |
 | :--: | -----: | :--------: | -------: | -----: | :--: |
-|Iron<br/>鉄|204|2(ダ)|6|4|Magnetic Ⅱ|
-|Pig Iron<br/>豚鉄|380|3(黒)|6.2|4.5|Baconlitious<br/>Tasty|
-|Cobalt<br/>コバルト|780|4(コ)|12|4.1|Momentum|
-|Ardite<br/>アーダイト|990|4(コ)|3.6|3.6|Stonebound|
-|Manyullyn<br/>マニュリン|820|4(コ)|7.02|8.72|Insatiable|
+|Iron<br>鉄|204|2(ダ)|6|4|Magnetic Ⅱ|
+|Pig Iron<br>豚鉄|380|3(黒)|6.2|4.5|Baconlitious<br>Tasty|
+|Cobalt<br>コバルト|780|4(コ)|12|4.1|Momentum|
+|Ardite<br>アーダイト|990|4(コ)|3.6|3.6|Stonebound|
+|Manyullyn<br>マニュリン|820|4(コ)|7.02|8.72|Insatiable|
 
 </details>
 
@@ -165,11 +165,11 @@ TConの素材のそれぞれの数値になります
 
 | 素材 | 耐久値 | 補正値 | 特性 |
 | :--: | -----: | -----: | :--: |
-|Iron<br/>鉄|60|0.85|Magnetic|
-|Pig Iron<br/>豚鉄|-100|1.2|Tasty|
-|Cobalt<br/>コバルト|100|0.9|Lightweight|
-|Ardite<br/>アーダイト|-200|1.4|Petramor|
-|Manyullyn<br/>マニュリン|250|0.5|Cold-Blooded|
+|Iron<br>鉄|60|0.85|Magnetic|
+|Pig Iron<br>豚鉄|-100|1.2|Tasty|
+|Cobalt<br>コバルト|100|0.9|Lightweight|
+|Ardite<br>アーダイト|-200|1.4|Petramor|
+|Manyullyn<br>マニュリン|250|0.5|Cold-Blooded|
 
 </details>
 
@@ -178,11 +178,11 @@ TConの素材のそれぞれの数値になります
 
 | 素材 | 耐久値 | 特性 |
 | :--: | -----: | :--: |
-|Iron<br/>鉄|50|Magnetic|
-|Pig Iron<br/>豚鉄|170|Tasty|
-|Cobalt<br/>コバルト|300|Lightweight|
-|Ardite<br/>アーダイト|450|Petramor|
-|Manyullyn<br/>マニュリン|50|Cold-Blooded|
+|Iron<br>鉄|50|Magnetic|
+|Pig Iron<br>豚鉄|170|Tasty|
+|Cobalt<br>コバルト|300|Lightweight|
+|Ardite<br>アーダイト|450|Petramor|
+|Manyullyn<br>マニュリン|50|Cold-Blooded|
 
 </details>
 
@@ -361,25 +361,25 @@ TConの素材のそれぞれの数値になります
 
 | 名前 | 素材 | 効果 |
 | :--: | :--: | :--- |
-|Haste<br/>加速|レッドストーンダスト (ブロックも可)|攻撃速度の上昇と採掘速度の上昇<br/>改造スロット１つにつき50まで累積。レッドストーンダスト１つにつき 約+0.12。50まで累積した時のボーナススピード(1.10からの攻撃スピード?)は+20%<br/>複数スロットを使って効果を上げることができる|
-|Luck<br/>運|ラピスラズリ (ブロックも可)|バニラと同等の幸運かドロップ増加をつける<br/>３段階あり、LuckⅠは 60、LuckⅡは 180、LuckⅢは 360 の累積値が最大<br/>スロットは１つしか使わない。Silktouchとは併用できない。Blastingとは併用できない|
-|Sharp<br/>鋭さ|ネザークォーツ (ブロックも可)|攻撃力の上昇<br/>改造スロット１つにつき72まで累積。ネザークォーツ１つにつき 約0.04<br/>複数スロットを使って効果を上げることができる|
-|Diamond<br/>ダイヤモンド|ダイヤモンド|耐久値に+500。採掘レベルを１段階上昇させる。最高で 3(黒) まで。採掘速度に+0.5。攻撃力に+1<br/>一度しか追加できない|
-|Emerald<br/>エメラルド|エメラルド|耐久値に+(初期値の)50%。採掘レベルを１段階上昇させる。最高で 2(ダ) まで(プレイ開始時にもらえる本の記述と違うためバグの可能性あり)<br/>一度しか追加できない|
-|Fortified<br/>強化|Sharpening Kit<br/>火打石|Sharpening Kitの素材の採掘レベルに上げることができる<br/>ツールの採掘レベルが素材より高くても素材の採掘レベルに上書きされるので注意<br/>改造スロットは使用しない|
-|Silktouch<br/>シルクタッチ|シルキージュエル|バニラと同等のシルクタッチの効果をつける<br/>攻撃力を-3。ただし2未満にはならない<br/>一度しか追加できない。Luckとの併用はできない。Blastingとは併用できない。Fierwoodツールには使えない|
-|Reinforced<br/>増強|Reinforcement|一定確率で耐久値を消費しなくなる<br/>１段階につき耐久値を消費しない確率を +20%<br/>複数スロットを使って効果を上げることができる|
-|Beheading<br/>刎頚|エンダーパール<br/>黒曜石|Mobの頭を落としやすくする<br/>確率は不明<br/>複数スロットを使って効果を上げることができる|
-|Smite<br/>アンデッド特攻|Consecrated Soil|アンデッドの敵への攻撃力増加<br/>複数スロットを使って効果を上げることができる|
-|Bane of Arthropods<br/>クモ特攻|発酵した蜘蛛の目|クモや紙魚への攻撃力増加(Modで追加される虫系のmodへも効果あり?)<br/>複数スロットを使って効果を上げることができる|
-|Fiery<br/>火|ブレイズパウダー|攻撃した敵を燃やす<br/>改造スロット１つにつき25まで累積。ブレイズパウダー１つにつき 攻撃力+0.07。８つおきに燃える時間が１秒ずつ伸びる。最初の７つまでは１秒<br/>複数スロットを使って効果を上げることができる|
-|Necrotic<br/>屍|Necrotic Bone|ダメージを与えた時に回復<br/>１段階につき与えたダメージから回復する量+10%<br/>複数スロットを使って効果を上げることができる|
-|Knockback<br/>ノックバック|ピストン<br/>or<br/>粘着ピストン|改造スロット１つにつき10まで累積<br/>複数スロットを使って効果を上げることができる|
-|Soulbound<br/>ソウルバウンド|ネザースター|死亡時にアイテムを所持したまま復活できる。当然ハードコアでは意味がない<br/>一度しか追加できない。改造スロットは使用しない|
-|Height++<br/>縦幅++|Expander (Vertical)|縦のブロック破壊範囲を広げる<br/>ツルハシなどは上下どちらかに１つ、槌やまさかりなどだと上下両方に１つずつ範囲が広がる。Width++と併用するとツルハシなどは 2×2、槌などは四隅が残る 5×5 になる<br/>一度しか追加できない(プレイ開始時にもらえる本の記述と違うためバグの可能性あり)。武器には使えない|
-|Width++<br/>横幅++|Expander (Horizontal)|横のブロック破壊範囲を広げる<br/>ツルハシなどは左右どちらかに１つ、槌やまさかりなどだと左右両方に１つずつ範囲が広がる。Height++と併用するとツルハシなどは 2×2、槌などは四隅が残る 5×5 になる<br/>一度しか追加できない(プレイ開始時にもらえる本の記述と違うためバグの可能性あり)。武器には使えない|
-|Mending Moss<br/>自動修復|Mending Moss|経験値を消費して自動回復<br/>回復量はレベルによって上がる。手持ちもしくはプレイヤーのインベントリ内に入れておく必要がある<br/>複数スロットを使って効果を上げることができる|
-|Blasting<br/>爆破|TNT x3|破壊速度アップ?<br/>３段階まで強化できる<br/>スロットは１つしか使わない。Silktouchとは併用できない。Luckとは併用できない。Firewoodツールには使えない|
-|Growing<br/>グロウィング|グロウストーンダスト x2<br/>エンダーアイ|手に持っていると暗いところにGrowball(光源)を設置<br/>一度しか追加できない|
-|Shulking<br/>シュルク|焼いたコーラスフルーツ|攻撃した相手に浮遊のステータス効果を与える<br/>50まで累積。焼いたコーラスフルーツ２つにつき持続時間 +0.05s。初期値は 0.5s で最大で 1.75s まで増加<br/>スロットは１つまでしか使えない|
-|Webbed<br/>蜘蛛の巣|蜘蛛の巣|攻撃した相手に移動速度低下のステータス効果を与える<br/>複数スロットを使って効果を上げることができる|
+|Haste<br>加速|レッドストーンダスト (ブロックも可)|攻撃速度の上昇と採掘速度の上昇<br>改造スロット１つにつき50まで累積。レッドストーンダスト１つにつき 約+0.12。50まで累積した時のボーナススピード(1.10からの攻撃スピード?)は+20%<br>複数スロットを使って効果を上げることができる|
+|Luck<br>運|ラピスラズリ (ブロックも可)|バニラと同等の幸運かドロップ増加をつける<br>３段階あり、LuckⅠは 60、LuckⅡは 180、LuckⅢは 360 の累積値が最大<br>スロットは１つしか使わない。Silktouchとは併用できない。Blastingとは併用できない|
+|Sharp<br>鋭さ|ネザークォーツ (ブロックも可)|攻撃力の上昇<br>改造スロット１つにつき72まで累積。ネザークォーツ１つにつき 約0.04<br>複数スロットを使って効果を上げることができる|
+|Diamond<br>ダイヤモンド|ダイヤモンド|耐久値に+500。採掘レベルを１段階上昇させる。最高で 3(黒) まで。採掘速度に+0.5。攻撃力に+1<br>一度しか追加できない|
+|Emerald<br>エメラルド|エメラルド|耐久値に+(初期値の)50%。採掘レベルを１段階上昇させる。最高で 2(ダ) まで(プレイ開始時にもらえる本の記述と違うためバグの可能性あり)<br>一度しか追加できない|
+|Fortified<br>強化|Sharpening Kit<br>火打石|Sharpening Kitの素材の採掘レベルに上げることができる<br>ツールの採掘レベルが素材より高くても素材の採掘レベルに上書きされるので注意<br>改造スロットは使用しない|
+|Silktouch<br>シルクタッチ|シルキージュエル|バニラと同等のシルクタッチの効果をつける<br>攻撃力を-3。ただし2未満にはならない<br>一度しか追加できない。Luckとの併用はできない。Blastingとは併用できない。Fierwoodツールには使えない|
+|Reinforced<br>増強|Reinforcement|一定確率で耐久値を消費しなくなる<br>１段階につき耐久値を消費しない確率を +20%<br>複数スロットを使って効果を上げることができる|
+|Beheading<br>刎頚|エンダーパール<br>黒曜石|Mobの頭を落としやすくする<br>確率は不明<br>複数スロットを使って効果を上げることができる|
+|Smite<br>アンデッド特攻|Consecrated Soil|アンデッドの敵への攻撃力増加<br>複数スロットを使って効果を上げることができる|
+|Bane of Arthropods<br>クモ特攻|発酵した蜘蛛の目|クモや紙魚への攻撃力増加(Modで追加される虫系のmodへも効果あり?)<br>複数スロットを使って効果を上げることができる|
+|Fiery<br>火|ブレイズパウダー|攻撃した敵を燃やす<br>改造スロット１つにつき25まで累積。ブレイズパウダー１つにつき 攻撃力+0.07。８つおきに燃える時間が１秒ずつ伸びる。最初の７つまでは１秒<br>複数スロットを使って効果を上げることができる|
+|Necrotic<br>屍|Necrotic Bone|ダメージを与えた時に回復<br>１段階につき与えたダメージから回復する量+10%<br>複数スロットを使って効果を上げることができる|
+|Knockback<br>ノックバック|ピストン<br>or<br>粘着ピストン|改造スロット１つにつき10まで累積<br>複数スロットを使って効果を上げることができる|
+|Soulbound<br>ソウルバウンド|ネザースター|死亡時にアイテムを所持したまま復活できる。当然ハードコアでは意味がない<br>一度しか追加できない。改造スロットは使用しない|
+|Height++<br>縦幅++|Expander (Vertical)|縦のブロック破壊範囲を広げる<br>ツルハシなどは上下どちらかに１つ、槌やまさかりなどだと上下両方に１つずつ範囲が広がる。Width++と併用するとツルハシなどは 2×2、槌などは四隅が残る 5×5 になる<br>一度しか追加できない(プレイ開始時にもらえる本の記述と違うためバグの可能性あり)。武器には使えない|
+|Width++<br>横幅++|Expander (Horizontal)|横のブロック破壊範囲を広げる<br>ツルハシなどは左右どちらかに１つ、槌やまさかりなどだと左右両方に１つずつ範囲が広がる。Height++と併用するとツルハシなどは 2×2、槌などは四隅が残る 5×5 になる<br>一度しか追加できない(プレイ開始時にもらえる本の記述と違うためバグの可能性あり)。武器には使えない|
+|Mending Moss<br>自動修復|Mending Moss|経験値を消費して自動回復<br>回復量はレベルによって上がる。手持ちもしくはプレイヤーのインベントリ内に入れておく必要がある<br>複数スロットを使って効果を上げることができる|
+|Blasting<br>爆破|TNT x3|破壊速度アップ?<br>３段階まで強化できる<br>スロットは１つしか使わない。Silktouchとは併用できない。Luckとは併用できない。Firewoodツールには使えない|
+|Growing<br>グロウィング|グロウストーンダスト x2<br>エンダーアイ|手に持っていると暗いところにGrowball(光源)を設置<br>一度しか追加できない|
+|Shulking<br>シュルク|焼いたコーラスフルーツ|攻撃した相手に浮遊のステータス効果を与える<br>50まで累積。焼いたコーラスフルーツ２つにつき持続時間 +0.05s。初期値は 0.5s で最大で 1.75s まで増加<br>スロットは１つまでしか使えない|
+|Webbed<br>蜘蛛の巣|蜘蛛の巣|攻撃した相手に移動速度低下のステータス効果を与える<br>複数スロットを使って効果を上げることができる|
