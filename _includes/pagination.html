@@ -1,4 +1,5 @@
 <nav class="pagination">
+  <h1>Pagination</h1>
   <div class=back>
     {%- if paginator.previous_page %}
     <a href="{{ paginator.first_page_path | relative_url }}" class=first>First</a>
@@ -8,6 +9,7 @@
     <a class=previous>Previous</a>
     {%- endif %}
   </div>
+  <div class="position">{{ paginator.page }} of {{ paginator.total_pages }}</div>
   <div class=fore>
     {%- if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}" class=next>Next</a>

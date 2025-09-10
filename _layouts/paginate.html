@@ -3,15 +3,11 @@ layout: default
 isPagenate: true
 ---
 
-<main class="posts">
+<main>
   <header>
     {{ content }}
 
     {% if paginator.total_pages > 1 -%}
-    <div class="position">
-      Page: {{ paginator.page }} of {{ paginator.total_pages }}
-    </div>
-
     {% include pagination.html %}
     {%- endif %}
   </header>
