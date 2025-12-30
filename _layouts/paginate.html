@@ -32,7 +32,7 @@ isPagenate: true
           </div>
           {%- if post.eye_catch %}
           <figure class="eye-catch">
-            <img alt="eye catch" src="{{ post.eye_catch | relative_url }}">
+            <img alt="{{ page.eye_catch_alt | default: "" }}" src="{{ post.eye_catch | relative_url }}">
           </figure>
           {%- endif %}
         </header>

@@ -2,6 +2,7 @@
 category: Game
 tags: KanColle
 eye_catch: /assets/images/eye-catch/kancolle/kanmusu-list-formatter-plugin-for-logbook-kai.png
+eye_catch_alt: 艦隊晒しフォーマット生成ダイアログのスクリーンショット
 date: '2018-10-11 14:47:09 +0900'
 redirect_from:
   - /game/kanmusu-list-formatter-plugin-for-logbook-kai

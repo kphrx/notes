@@ -2,6 +2,7 @@
 category: Game
 tags: Minecraft
 eye_catch: https://cdn.modrinth.com/data/ESa9RivE/images/ea127410a4c913adb12de3104699331b622ae604.png
+eye_catch_alt: Jadeで農民の村人に出てくる表示にインベントリが追加されている
 hasCodeSnippet: true
 date: '2025-07-26 01:56:25 +0900'
 ---

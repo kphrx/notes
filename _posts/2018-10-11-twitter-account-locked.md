@@ -1,6 +1,7 @@
 ---
 category: Memo
 eye_catch: /assets/images/eye-catch/blog/twitter-account-locked.png
+eye_catch_alt: 「ご利用のアカウントのアカウントはロックされています」と「Twitterを利用できるのは13歳以上」という説明が書かれたページのスクリーンショット
 date: '2018-10-11 15:14:38 +0900'
 redirect_from:
   - /misc/twitter-account-locked
