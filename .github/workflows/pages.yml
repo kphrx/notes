@@ -28,7 +28,7 @@ jobs:
       JEKYLL_GITHUB_TOKEN: ${{ github.token }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
       - name: Setup Ruby
@@ -61,7 +61,7 @@ jobs:
           rm -f _site/redirects.json
           find _site -empty -type d -delete
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3 # This will automatically upload an artifact from the '/_site' directory
+        uses: actions/upload-pages-artifact@v4 # This will automatically upload an artifact from the '/_site' directory
 
   # Deployment job
   deploy:
