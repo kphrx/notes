@@ -60,24 +60,20 @@ ul.posts {
 
 body .post {
   > header {
-    display: flex;
-    flex-direction: column-reverse;
-
-    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    grid-template-rows: auto 1fr;
+    grid-template-areas: "a a c" "b b c";
 
     > h2 {
       margin: 0;
       border: none;
 
-      &:has(~ figure.eye-catch) {
-        max-width: calc(100% - 320px);
-      }
+      grid-area: b;
     }
 
     > figure.eye-catch {
-      position: absolute;
-      top: 0;
-      right: 0;
+      grid-area: c;
       width: fit-content;
       max-width: 320px;
       max-height: 100%;
@@ -92,9 +88,7 @@ body .post {
     }
 
     > .metadata {
-      &:has(~ figure.eye-catch) {
-        max-width: calc(100% - 320px);
-      }
+      grid-area: a;
 
       > ul.tags {
         justify-content: flex-start;
