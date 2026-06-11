@@ -9,7 +9,7 @@ group :production, :jekyll_plugins do
 
   ## primer dependencies
   gem "jekyll-github-metadata", "~> 2.16" # GitHub metadata
-  gem "jekyll-seo-tag", "~> 2.8" # Site metadata
+  gem "jekyll-seo-tag", "~> 2.9" # Site metadata
 
   ## Markdown converter for GitHub Flavored Markdown
   # gem "jekyll-commonmark-ghpages", "~> 2.0"
